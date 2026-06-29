@@ -102,7 +102,7 @@ Before starting, make sure you have installed:
 ## Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Krishna-Kaul/WellCare-AI.git>
 cd WellCare-AI
 ```
 
